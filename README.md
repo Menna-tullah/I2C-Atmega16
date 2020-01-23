@@ -1,1 +1,1 @@
-# I2C-Atmega16-32
+# I2C with external EEPROM - Atmega16
